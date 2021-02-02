@@ -5,10 +5,6 @@
     "version": "1.0.0",
     "orientation": "landscape",
     "icon": "./assets/icon.png",
-    "splash": {
-      "resizeMode": "contain",
-      "backgroundColor": "#000"
-    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
