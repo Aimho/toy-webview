@@ -13,7 +13,7 @@ export default function App() {
         backgroundColor: "#000",
       }}
     >
-      <WebView source={{ url }} />
+      <WebView source={{ url }} allowsInlineMediaPlayback />
     </SafeAreaView>
   );
 }
